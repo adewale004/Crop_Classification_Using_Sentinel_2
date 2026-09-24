@@ -1,1 +1,0 @@
-# Crop_Classification_Using_Sentinel_2
