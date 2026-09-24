@@ -1,4 +1,4 @@
-# Crop Classification in Côte d’Ivoire Using Sentinel-2 and XGBoost
+# Crop Classification in Côte d’Ivoire Using Sentinel-2
 
 ## Overview
 
